@@ -20,6 +20,6 @@ const themeStyles = () => {
       }
     }
   });
-};
+};  
 
 export default themeStyles;
